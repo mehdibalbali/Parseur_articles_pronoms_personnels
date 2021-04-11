@@ -1,3 +1,4 @@
+# coding: utf-8
 def preposition_test(word): 
 	preposition = ["À","à", "chez", "dans", "de", "entre", "jusque", "hors", "par", "pour", "sans", "vers","dés","sur",
 				"devant","sous","derrière","avant","après","depuis","pendant","jusqu'à","en","avec","selon",

@@ -1,3 +1,4 @@
+# coding: utf-8
 import definition as dec
 import re
 
