@@ -3,4 +3,4 @@ Parseur et désambiguïsation entre un article défini et un pronom personnel co
 
  ## Exécution 
  > main.py *.txt
- > Vous trouvez les ficheris textes dans /files
+  Vous trouvez les ficheris textes dans /files
